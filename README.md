@@ -1,3 +1,3 @@
 Visualizations made with plotly express
 
-Download to view visualizations
+Download HTML file to view visualizations
