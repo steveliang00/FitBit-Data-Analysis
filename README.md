@@ -1,3 +1,3 @@
-Charts plotted with plotly express
+Visualizations made with plotly express
 
-Download to view charts
+Download to view visualizations
