@@ -53,7 +53,7 @@ A correlation analysis uncovered a notable relationship: **Users with higher sed
 
 Based on the analysis, the following strategies are recommended to improve user health outcomes and engagement:
 
-1.  **"Sleep Hygiene" Campaign:**
+1.  **"Sleep Quality" Campaign:**
     *   Target the 44% of users getting insufficient sleep.
     *   Feature: "Wind-down" notifications 30 minutes before the user's typical bedtime.
     *   Insight: Emphasize the link between reducing sedentary time and improving sleep.
